@@ -1,0 +1,616 @@
+Property_ID,Date,City,Location,Property_Type,Area_SqFt,Price_PKR,Monthly_Rent_PKR,Status
+PROP-1001,2021-01-31,Islamabad,DHA Phase 2,Apartment,2094,27621954,132474,Active
+PROP-1002,2021-01-31,Islamabad,Sector G-11,Commercial,2635,69466505,238172,Sold
+PROP-1003,2021-01-31,Karachi,DHA Phase 5,House / Villa,4853,70043349,248336,Active
+PROP-1004,2021-01-31,Rawalpindi,Bahria Town Phase 8,House / Villa,4300,99312800,384706,Sold
+PROP-1005,2021-01-31,Lahore,Johar Town,Commercial,689,23507302,114131,Active
+PROP-1006,2021-01-31,Rawalpindi,Saddar,Commercial,1146,33809292,102773,Rented
+PROP-1007,2021-01-31,Lahore,Gulberg III,House / Villa,4824,94130712,309973,Sold
+PROP-1008,2021-01-31,Islamabad,DHA Phase 2,Commercial,1275,34687650,122103,Active
+PROP-1009,2021-01-31,Lahore,Johar Town,House / Villa,3021,71455713,258942,Sold
+PROP-1010,2021-01-31,Karachi,DHA Phase 5,House / Villa,3579,43524219,182168,Rented
+PROP-1011,2021-01-31,Islamabad,DHA Phase 2,Apartment,1095,17401740,72496,Active
+PROP-1012,2021-01-31,Karachi,DHA Phase 5,Apartment,1563,22399353,103666,Active
+PROP-1013,2021-01-31,Islamabad,Bahria Enclave,Apartment,1320,17771160,74365,Active
+PROP-1014,2021-01-31,Islamabad,Sector G-11,Commercial,891,25826526,138702,Sold
+PROP-1015,2021-01-31,Lahore,Gulberg III,Apartment,1851,26428578,146681,Active
+PROP-1016,2021-02-28,Karachi,Bahria Town,Apartment,898,9636438,47340,Rented
+PROP-1017,2021-02-28,Karachi,DHA Phase 8,Apartment,2285,27054400,139741,Active
+PROP-1018,2021-02-28,Lahore,Bahria Town,Apartment,1006,13212804,44033,Active
+PROP-1019,2021-02-28,Islamabad,Sector F-7,Apartment,895,12547005,71802,Active
+PROP-1020,2021-02-28,Karachi,DHA Phase 8,Apartment,1859,27267812,88100,Active
+PROP-1021,2021-02-28,Lahore,Johar Town,House / Villa,4729,103040181,504918,Rented
+PROP-1022,2021-02-28,Rawalpindi,Bahria Town Phase 8,House / Villa,3354,45825702,248481,Rented
+PROP-1023,2021-02-28,Islamabad,Sector F-7,Apartment,2200,20473200,87652,Rented
+PROP-1024,2021-02-28,Karachi,DHA Phase 8,Commercial,1209,24820770,105543,Active
+PROP-1025,2021-02-28,Islamabad,Sector F-10,Commercial,2131,70065149,357966,Active
+PROP-1026,2021-02-28,Karachi,DHA Phase 5,House / Villa,3636,57070656,342037,Active
+PROP-1027,2021-02-28,Lahore,Gulberg III,House / Villa,2854,57548056,232218,Sold
+PROP-1028,2021-02-28,Lahore,Gulberg III,Apartment,1529,21086439,98234,Sold
+PROP-1029,2021-02-28,Islamabad,Sector G-11,Commercial,900,17450100,71603,Sold
+PROP-1030,2021-02-28,Lahore,Bahria Town,Commercial,2691,65496249,296344,Sold
+PROP-1031,2021-03-31,Islamabad,DHA Phase 2,Commercial,2455,52895430,271535,Rented
+PROP-1032,2021-03-31,Rawalpindi,Adyala Road,Apartment,1728,17209152,71593,Rented
+PROP-1033,2021-03-31,Karachi,DHA Phase 8,Apartment,1272,17215248,96956,Active
+PROP-1034,2021-03-31,Rawalpindi,Bahria Town Phase 8,Apartment,2395,24067355,144133,Rented
+PROP-1035,2021-03-31,Karachi,Gulshan-e-Iqbal,Commercial,2556,57254400,231744,Sold
+PROP-1036,2021-03-31,Islamabad,DHA Phase 2,House / Villa,3696,89380368,496309,Rented
+PROP-1037,2021-03-31,Rawalpindi,Bahria Town Phase 8,House / Villa,4557,80166744,400072,Active
+PROP-1038,2021-03-31,Rawalpindi,Bahria Town Phase 8,House / Villa,4869,114061194,565274,Active
+PROP-1039,2021-03-31,Karachi,PECHS,Apartment,1197,20937924,74046,Active
+PROP-1040,2021-03-31,Rawalpindi,Adyala Road,Commercial,900,17761500,83566,Active
+PROP-1041,2021-03-31,Islamabad,Bahria Enclave,Commercial,2985,62371575,305210,Sold
+PROP-1042,2021-03-31,Lahore,DHA Phase 6,Commercial,1459,30055400,107770,Sold
+PROP-1043,2021-03-31,Islamabad,DHA Phase 2,Commercial,1715,45125080,141278,Rented
+PROP-1044,2021-03-31,Lahore,Model Town,House / Villa,4565,59618900,344892,Active
+PROP-1045,2021-03-31,Karachi,DHA Phase 8,Apartment,1939,15880410,62205,Active
+PROP-1046,2021-04-30,Karachi,DHA Phase 8,House / Villa,3816,68130864,376943,Rented
+PROP-1047,2021-04-30,Lahore,Gulberg III,Commercial,2186,39367674,148120,Active
+PROP-1048,2021-04-30,Lahore,DHA Phase 6,Apartment,2216,34000088,158388,Active
+PROP-1049,2021-04-30,Lahore,Bahria Town,House / Villa,2920,66129240,379563,Sold
+PROP-1050,2021-04-30,Karachi,PECHS,Apartment,819,8491392,27281,Active
+PROP-1051,2021-04-30,Lahore,Johar Town,Commercial,1666,47319398,224132,Active
+PROP-1052,2021-04-30,Islamabad,Sector G-11,Apartment,1374,12569352,69342,Rented
+PROP-1053,2021-04-30,Karachi,PECHS,House / Villa,2837,44977798,183535,Active
+PROP-1054,2021-04-30,Karachi,Gulshan-e-Iqbal,Apartment,1926,25644690,141714,Active
+PROP-1055,2021-04-30,Lahore,Bahria Town,Commercial,768,14949120,68002,Active
+PROP-1056,2021-04-30,Karachi,DHA Phase 8,House / Villa,3974,85683414,263566,Rented
+PROP-1057,2021-04-30,Islamabad,Sector F-7,Apartment,1881,16011072,69280,Active
+PROP-1058,2021-04-30,Lahore,DHA Phase 6,Apartment,1696,19237728,87533,Sold
+PROP-1059,2021-04-30,Karachi,Bahria Town,Apartment,1046,16871980,63155,Active
+PROP-1060,2021-04-30,Karachi,Bahria Town,Apartment,2108,36752980,115331,Active
+PROP-1061,2021-05-31,Lahore,Johar Town,Apartment,2027,29628659,132583,Active
+PROP-1062,2021-05-31,Karachi,Bahria Town,House / Villa,2356,52449272,164909,Rented
+PROP-1063,2021-05-31,Rawalpindi,Bahria Town Phase 8,Commercial,2989,74195947,413232,Sold
+PROP-1064,2021-05-31,Rawalpindi,Adyala Road,House / Villa,2496,52633152,258387,Rented
+PROP-1065,2021-05-31,Rawalpindi,Bahria Town Phase 8,Commercial,2927,55613000,302179,Rented
+PROP-1066,2021-05-31,Rawalpindi,Adyala Road,Apartment,2240,26685120,96601,Active
+PROP-1067,2021-05-31,Rawalpindi,Adyala Road,House / Villa,4546,95215970,480747,Active
+PROP-1068,2021-05-31,Rawalpindi,Saddar,House / Villa,3625,84321125,458994,Active
+PROP-1069,2021-05-31,Rawalpindi,Bahria Town Phase 8,Apartment,2316,19482192,60736,Active
+PROP-1070,2021-05-31,Karachi,Clifton,House / Villa,3892,56449568,265626,Sold
+PROP-1071,2021-05-31,Islamabad,DHA Phase 2,House / Villa,3008,42542144,171121,Rented
+PROP-1072,2021-05-31,Karachi,PECHS,Apartment,2348,25626072,84806,Rented
+PROP-1073,2021-05-31,Lahore,Johar Town,Apartment,2165,27045180,153794,Active
+PROP-1074,2021-05-31,Rawalpindi,Saddar,Apartment,875,10815000,42805,Rented
+PROP-1075,2021-05-31,Rawalpindi,Adyala Road,House / Villa,3390,68935650,299548,Active
+PROP-1076,2021-06-30,Karachi,PECHS,Commercial,1992,45120792,263441,Sold
+PROP-1077,2021-06-30,Islamabad,Bahria Enclave,Apartment,1865,24813825,78726,Sold
+PROP-1078,2021-06-30,Karachi,DHA Phase 8,Commercial,1232,23814560,121870,Rented
+PROP-1079,2021-06-30,Karachi,DHA Phase 5,House / Villa,4539,86495184,285725,Active
+PROP-1080,2021-06-30,Karachi,DHA Phase 5,Apartment,1745,26066810,133428,Active
+PROP-1081,2021-06-30,Karachi,Bahria Town,Commercial,2019,49627020,204062,Rented
+PROP-1082,2021-06-30,Islamabad,Sector F-7,Apartment,1955,21780655,111615,Active
+PROP-1083,2021-06-30,Rawalpindi,Bahria Town Phase 8,Commercial,590,17986150,80539,Active
+PROP-1084,2021-06-30,Rawalpindi,Bahria Town Phase 8,House / Villa,3683,68573777,363549,Rented
+PROP-1085,2021-06-30,Islamabad,Sector F-7,Commercial,2496,74088768,436124,Active
+PROP-1086,2021-06-30,Karachi,Clifton,Apartment,1733,14094489,76199,Rented
+PROP-1087,2021-06-30,Karachi,Gulshan-e-Iqbal,Commercial,1672,43477016,140056,Sold
+PROP-1088,2021-06-30,Rawalpindi,Saddar,House / Villa,4094,54270064,198108,Active
+PROP-1089,2021-06-30,Karachi,Gulshan-e-Iqbal,House / Villa,4703,97173386,304768,Active
+PROP-1090,2021-06-30,Rawalpindi,Bahria Town Phase 8,Apartment,1831,31744047,113147,Active
+PROP-1091,2021-07-31,Lahore,Johar Town,House / Villa,2539,58323369,238019,Active
+PROP-1092,2021-07-31,Islamabad,Sector F-7,Apartment,1728,24420096,132879,Sold
+PROP-1093,2021-07-31,Karachi,Gulshan-e-Iqbal,House / Villa,2389,42316357,179841,Sold
+PROP-1094,2021-07-31,Karachi,DHA Phase 5,House / Villa,4871,102237419,572344,Active
+PROP-1095,2021-07-31,Islamabad,Sector F-7,House / Villa,4193,85600095,509822,Active
+PROP-1096,2021-07-31,Lahore,DHA Phase 6,House / Villa,4874,92303812,434496,Active
+PROP-1097,2021-07-31,Karachi,DHA Phase 8,Commercial,884,13617136,43154,Rented
+PROP-1098,2021-07-31,Karachi,Gulshan-e-Iqbal,Commercial,2168,45504152,261170,Sold
+PROP-1099,2021-07-31,Karachi,Gulshan-e-Iqbal,House / Villa,2082,40068090,144851,Active
+PROP-1100,2021-07-31,Karachi,Gulshan-e-Iqbal,House / Villa,2448,41557248,219048,Active
+PROP-1101,2021-07-31,Islamabad,Sector F-10,House / Villa,2673,66089925,351397,Sold
+PROP-1102,2021-07-31,Rawalpindi,Saddar,House / Villa,2235,45996300,150188,Sold
+PROP-1103,2021-07-31,Karachi,Gulshan-e-Iqbal,Apartment,1377,17253810,98509,Sold
+PROP-1104,2021-07-31,Lahore,Gulberg III,House / Villa,4845,104409750,450259,Rented
+PROP-1105,2021-07-31,Rawalpindi,Saddar,House / Villa,3358,57472170,223789,Sold
+PROP-1106,2021-08-31,Karachi,Gulshan-e-Iqbal,Apartment,1699,13824763,79903,Active
+PROP-1107,2021-08-31,Rawalpindi,Saddar,House / Villa,4100,72032900,287141,Sold
+PROP-1108,2021-08-31,Rawalpindi,Adyala Road,Commercial,2658,85438752,374252,Sold
+PROP-1109,2021-08-31,Islamabad,DHA Phase 2,Apartment,2018,19951966,88225,Sold
+PROP-1110,2021-08-31,Lahore,Model Town,House / Villa,3028,53247380,204244,Active
+PROP-1111,2021-08-31,Karachi,Bahria Town,Apartment,1444,20758944,84446,Rented
+PROP-1112,2021-08-31,Karachi,Bahria Town,House / Villa,3836,73804640,241848,Active
+PROP-1113,2021-08-31,Lahore,Bahria Town,Commercial,547,10629304,40716,Rented
+PROP-1114,2021-08-31,Karachi,DHA Phase 8,Apartment,1518,12602436,51813,Active
+PROP-1115,2021-08-31,Lahore,Johar Town,Commercial,2625,69507375,358765,Active
+PROP-1116,2021-08-31,Islamabad,Sector G-11,Commercial,1526,50403780,278900,Sold
+PROP-1117,2021-08-31,Rawalpindi,Saddar,House / Villa,4853,91634346,384084,Active
+PROP-1118,2021-08-31,Islamabad,Bahria Enclave,House / Villa,3062,42794512,236316,Active
+PROP-1119,2021-08-31,Lahore,Johar Town,Apartment,944,10946624,52333,Sold
+PROP-1120,2021-08-31,Islamabad,Sector F-7,Apartment,1969,28296499,130484,Sold
+PROP-1121,2021-09-30,Rawalpindi,Saddar,Commercial,2972,101413556,500754,Sold
+PROP-1122,2021-09-30,Rawalpindi,Adyala Road,Apartment,2200,38508800,116396,Active
+PROP-1123,2021-09-30,Lahore,Johar Town,House / Villa,4890,75878130,292531,Active
+PROP-1124,2021-09-30,Islamabad,Sector F-7,Commercial,742,13051780,55224,Rented
+PROP-1125,2021-09-30,Islamabad,Sector F-10,Commercial,503,11990011,71043,Active
+PROP-1126,2021-09-30,Lahore,Bahria Town,House / Villa,3464,56425096,263521,Sold
+PROP-1127,2021-09-30,Islamabad,Bahria Enclave,Apartment,1125,19499625,100088,Active
+PROP-1128,2021-09-30,Rawalpindi,Saddar,Commercial,2548,54101684,286919,Active
+PROP-1129,2021-09-30,Lahore,Bahria Town,Commercial,2526,74754444,235885,Active
+PROP-1130,2021-09-30,Lahore,Model Town,Commercial,2173,37416887,134895,Sold
+PROP-1131,2021-09-30,Rawalpindi,Saddar,Commercial,2136,54613248,288395,Sold
+PROP-1132,2021-09-30,Rawalpindi,Bahria Town Phase 8,Commercial,1618,37188112,206475,Sold
+PROP-1133,2021-09-30,Lahore,Model Town,Commercial,1660,56471540,233661,Rented
+PROP-1134,2021-09-30,Rawalpindi,Bahria Town Phase 8,Apartment,1672,29166368,105141,Active
+PROP-1135,2021-09-30,Karachi,Gulshan-e-Iqbal,Apartment,1650,25650900,125722,Rented
+PROP-1136,2021-10-31,Karachi,Gulshan-e-Iqbal,House / Villa,4136,93643176,510336,Active
+PROP-1137,2021-10-31,Lahore,Bahria Town,Apartment,1221,17074464,89518,Sold
+PROP-1138,2021-10-31,Karachi,Clifton,Apartment,1806,21731598,100631,Rented
+PROP-1139,2021-10-31,Islamabad,Sector G-11,House / Villa,3669,83719242,408811,Active
+PROP-1140,2021-10-31,Rawalpindi,Adyala Road,Commercial,2192,44734336,205795,Rented
+PROP-1141,2021-10-31,Rawalpindi,Saddar,House / Villa,3120,72571200,271813,Sold
+PROP-1142,2021-10-31,Lahore,Johar Town,House / Villa,3857,64072484,360747,Active
+PROP-1143,2021-10-31,Lahore,Model Town,Commercial,1314,28081494,122744,Sold
+PROP-1144,2021-10-31,Islamabad,Bahria Enclave,Apartment,1980,20534580,106097,Sold
+PROP-1145,2021-10-31,Islamabad,Sector G-11,Commercial,2455,38771815,145603,Active
+PROP-1146,2021-10-31,Islamabad,Sector F-10,House / Villa,2711,49248026,216002,Rented
+PROP-1147,2021-10-31,Rawalpindi,Bahria Town Phase 8,Apartment,1757,15784888,59478,Sold
+PROP-1148,2021-10-31,Islamabad,DHA Phase 2,Apartment,1687,20034812,102612,Active
+PROP-1149,2021-10-31,Rawalpindi,Adyala Road,House / Villa,3928,67204152,217201,Active
+PROP-1150,2021-10-31,Karachi,Bahria Town,Commercial,1930,32408560,108235,Rented
+PROP-1151,2021-11-30,Lahore,Johar Town,House / Villa,4872,73430784,411923,Sold
+PROP-1152,2021-11-30,Rawalpindi,Adyala Road,Apartment,2254,34062448,178240,Active
+PROP-1153,2021-11-30,Karachi,Gulshan-e-Iqbal,House / Villa,2936,58631920,245931,Sold
+PROP-1154,2021-11-30,Islamabad,Sector F-10,Commercial,974,18116400,86255,Active
+PROP-1155,2021-11-30,Islamabad,Sector G-11,House / Villa,2663,64742856,291025,Active
+PROP-1156,2021-11-30,Rawalpindi,Saddar,Apartment,1084,13828588,50616,Active
+PROP-1157,2021-11-30,Karachi,Clifton,Apartment,1488,18217584,77313,Active
+PROP-1158,2021-11-30,Karachi,Clifton,Commercial,2292,38411628,122964,Sold
+PROP-1159,2021-11-30,Islamabad,Sector G-11,House / Villa,4079,60030643,214433,Active
+PROP-1160,2021-11-30,Lahore,Bahria Town,House / Villa,2768,48412320,211071,Sold
+PROP-1161,2021-11-30,Rawalpindi,Saddar,House / Villa,3701,78231738,271129,Active
+PROP-1162,2021-11-30,Karachi,DHA Phase 8,House / Villa,3481,76905733,352207,Rented
+PROP-1163,2021-11-30,Islamabad,DHA Phase 2,House / Villa,2832,69667200,255394,Active
+PROP-1164,2021-11-30,Islamabad,Bahria Enclave,House / Villa,4808,73610480,346582,Rented
+PROP-1165,2021-11-30,Rawalpindi,Adyala Road,House / Villa,4143,71288601,368334,Rented
+PROP-1166,2021-12-31,Islamabad,DHA Phase 2,Apartment,981,14334372,60479,Active
+PROP-1167,2021-12-31,Lahore,Gulberg III,Commercial,2698,49783496,280247,Sold
+PROP-1168,2021-12-31,Lahore,Gulberg III,Apartment,1614,23971128,96494,Active
+PROP-1169,2021-12-31,Lahore,Bahria Town,Commercial,895,29480405,143641,Active
+PROP-1170,2021-12-31,Lahore,DHA Phase 6,House / Villa,3076,58699308,214753,Rented
+PROP-1171,2021-12-31,Rawalpindi,Saddar,House / Villa,4679,66001974,375132,Sold
+PROP-1172,2021-12-31,Karachi,DHA Phase 5,Commercial,1020,17950980,91487,Active
+PROP-1173,2021-12-31,Karachi,Bahria Town,House / Villa,4541,63805591,216736,Rented
+PROP-1174,2021-12-31,Lahore,Model Town,Commercial,2675,54770625,246154,Active
+PROP-1175,2021-12-31,Karachi,Clifton,House / Villa,3401,84599875,306189,Active
+PROP-1176,2021-12-31,Karachi,DHA Phase 8,Apartment,2110,18240950,94790,Active
+PROP-1177,2021-12-31,Karachi,Clifton,Apartment,1254,22446600,123777,Active
+PROP-1178,2021-12-31,Lahore,Gulberg III,House / Villa,3599,58393775,204311,Sold
+PROP-1179,2021-12-31,Islamabad,Bahria Enclave,Commercial,1293,28211967,145492,Active
+PROP-1180,2021-12-31,Islamabad,Sector F-10,Commercial,1257,28552755,131900,Active
+PROP-1181,2022-01-31,Rawalpindi,Adyala Road,Apartment,1757,27539218,131927,Active
+PROP-1182,2022-01-31,Lahore,Gulberg III,Apartment,872,9019096,46760,Active
+PROP-1183,2022-01-31,Islamabad,Sector F-10,Apartment,1862,29736140,162279,Sold
+PROP-1184,2022-01-31,Rawalpindi,Adyala Road,House / Villa,2101,39937909,132165,Active
+PROP-1185,2022-01-31,Islamabad,Sector G-11,Apartment,1756,23066816,134957,Active
+PROP-1186,2022-01-31,Islamabad,DHA Phase 2,House / Villa,2215,27328670,142018,Rented
+PROP-1187,2022-01-31,Islamabad,Bahria Enclave,House / Villa,2709,46917171,175892,Active
+PROP-1188,2022-01-31,Islamabad,Sector G-11,House / Villa,2488,49869472,249833,Active
+PROP-1189,2022-01-31,Rawalpindi,Adyala Road,Apartment,1780,19859460,114121,Active
+PROP-1190,2022-01-31,Karachi,Clifton,Commercial,2021,48540378,283126,Active
+PROP-1191,2022-01-31,Lahore,Johar Town,Commercial,901,29597850,162395,Active
+PROP-1192,2022-01-31,Islamabad,Sector G-11,Apartment,1921,15617730,79476,Active
+PROP-1193,2022-01-31,Islamabad,DHA Phase 2,Commercial,1872,56753424,224531,Sold
+PROP-1194,2022-01-31,Rawalpindi,Saddar,House / Villa,3131,74245403,228171,Rented
+PROP-1195,2022-01-31,Lahore,Bahria Town,Commercial,2304,70905600,411094,Active
+PROP-1196,2022-02-28,Lahore,Johar Town,Apartment,1757,17626224,74132,Active
+PROP-1197,2022-02-28,Karachi,PECHS,Commercial,2924,56611564,185408,Active
+PROP-1198,2022-02-28,Rawalpindi,Saddar,Apartment,802,7350330,28600,Rented
+PROP-1199,2022-02-28,Lahore,Model Town,Apartment,1231,20798976,119199,Active
+PROP-1200,2022-02-28,Islamabad,Sector F-7,Apartment,2167,37174885,135865,Rented
+PROP-1201,2022-02-28,Karachi,Gulshan-e-Iqbal,Commercial,1209,19109454,107726,Rented
+PROP-1202,2022-02-28,Islamabad,Bahria Enclave,House / Villa,4611,81568590,342974,Rented
+PROP-1203,2022-02-28,Lahore,Model Town,Commercial,1889,50234177,157777,Active
+PROP-1204,2022-02-28,Karachi,Clifton,House / Villa,4306,68228570,368591,Sold
+PROP-1205,2022-02-28,Islamabad,Sector F-7,Apartment,1922,19052786,87168,Active
+PROP-1206,2022-02-28,Islamabad,Sector F-10,House / Villa,4109,79353008,274695,Rented
+PROP-1207,2022-02-28,Lahore,Model Town,Apartment,1912,24234600,114878,Active
+PROP-1208,2022-02-28,Karachi,DHA Phase 8,Commercial,1487,48479174,284425,Rented
+PROP-1209,2022-02-28,Karachi,Clifton,Apartment,2218,19859972,76345,Active
+PROP-1210,2022-02-28,Lahore,Bahria Town,Apartment,1999,34192895,110892,Active
+PROP-1211,2022-03-31,Karachi,PECHS,Apartment,1772,23448876,105178,Active
+PROP-1212,2022-03-31,Karachi,DHA Phase 8,House / Villa,3346,45475486,226756,Sold
+PROP-1213,2022-03-31,Karachi,Gulshan-e-Iqbal,Apartment,2085,25668435,138411,Sold
+PROP-1214,2022-03-31,Karachi,DHA Phase 8,Commercial,2204,48320496,266296,Sold
+PROP-1215,2022-03-31,Lahore,Johar Town,Commercial,2969,92353714,543404,Active
+PROP-1216,2022-03-31,Islamabad,Sector F-10,House / Villa,4719,87329814,321886,Rented
+PROP-1217,2022-03-31,Lahore,Johar Town,House / Villa,2588,57463952,216987,Active
+PROP-1218,2022-03-31,Karachi,Bahria Town,Commercial,1636,27916704,93452,Active
+PROP-1219,2022-03-31,Rawalpindi,Saddar,Commercial,1507,30810615,118621,Active
+PROP-1220,2022-03-31,Karachi,DHA Phase 5,Commercial,1935,30129885,106614,Sold
+PROP-1221,2022-03-31,Lahore,Johar Town,House / Villa,2730,35599200,189136,Sold
+PROP-1222,2022-03-31,Lahore,DHA Phase 6,House / Villa,2473,57826159,181413,Rented
+PROP-1223,2022-03-31,Rawalpindi,Adyala Road,Apartment,1515,25685310,87079,Sold
+PROP-1224,2022-03-31,Islamabad,Bahria Enclave,Commercial,2626,70379426,244696,Active
+PROP-1225,2022-03-31,Rawalpindi,Saddar,Commercial,2944,92506368,423778,Rented
+PROP-1226,2022-04-30,Islamabad,DHA Phase 2,House / Villa,3710,56225050,279074,Active
+PROP-1227,2022-04-30,Karachi,Bahria Town,Apartment,820,11845720,50453,Sold
+PROP-1228,2022-04-30,Lahore,Bahria Town,Apartment,2276,31012776,131122,Rented
+PROP-1229,2022-04-30,Islamabad,Sector F-10,Apartment,1986,21957216,108798,Active
+PROP-1230,2022-04-30,Islamabad,DHA Phase 2,Commercial,2107,45454311,164140,Active
+PROP-1231,2022-04-30,Rawalpindi,Adyala Road,Commercial,2209,47144478,230001,Active
+PROP-1232,2022-04-30,Karachi,PECHS,House / Villa,4946,97559850,427925,Active
+PROP-1233,2022-04-30,Islamabad,Sector F-7,House / Villa,3259,45218625,194029,Active
+PROP-1234,2022-04-30,Karachi,PECHS,Commercial,1513,47659500,227373,Active
+PROP-1235,2022-04-30,Rawalpindi,Saddar,Apartment,871,14341015,72298,Active
+PROP-1236,2022-04-30,Islamabad,Sector G-11,Apartment,1528,15345704,81939,Active
+PROP-1237,2022-04-30,Lahore,Bahria Town,Apartment,1200,17677200,105355,Active
+PROP-1238,2022-04-30,Rawalpindi,Bahria Town Phase 8,House / Villa,4139,60926080,285069,Active
+PROP-1239,2022-04-30,Rawalpindi,Saddar,House / Villa,4272,98426880,555875,Active
+PROP-1240,2022-04-30,Karachi,PECHS,House / Villa,2917,44262558,150410,Sold
+PROP-1241,2022-05-31,Lahore,Gulberg III,House / Villa,2142,32217822,100633,Sold
+PROP-1242,2022-05-31,Rawalpindi,Adyala Road,Apartment,1434,14232450,68092,Sold
+PROP-1243,2022-05-31,Islamabad,Sector F-7,House / Villa,2715,47194845,275714,Sold
+PROP-1244,2022-05-31,Rawalpindi,Bahria Town Phase 8,Commercial,750,13072500,42359,Rented
+PROP-1245,2022-05-31,Rawalpindi,Bahria Town Phase 8,House / Villa,2021,41634621,184970,Active
+PROP-1246,2022-05-31,Rawalpindi,Bahria Town Phase 8,House / Villa,2970,56961630,213111,Active
+PROP-1247,2022-05-31,Karachi,DHA Phase 8,House / Villa,2749,42408823,221918,Rented
+PROP-1248,2022-05-31,Karachi,DHA Phase 8,House / Villa,3989,76018373,377035,Active
+PROP-1249,2022-05-31,Rawalpindi,Saddar,Commercial,2237,53567202,270015,Active
+PROP-1250,2022-05-31,Islamabad,Sector F-7,Commercial,1855,40819275,240112,Active
+PROP-1251,2022-05-31,Rawalpindi,Saddar,House / Villa,4579,59320945,185100,Rented
+PROP-1252,2022-05-31,Rawalpindi,Saddar,House / Villa,4913,86621103,417389,Sold
+PROP-1253,2022-05-31,Rawalpindi,Bahria Town Phase 8,Commercial,1254,41103612,158313,Active
+PROP-1254,2022-05-31,Islamabad,Bahria Enclave,House / Villa,4068,60849144,225590,Sold
+PROP-1255,2022-05-31,Rawalpindi,Bahria Town Phase 8,Commercial,1439,22340475,132125,Active
+PROP-1256,2022-06-30,Karachi,Bahria Town,Apartment,1352,14013480,46134,Active
+PROP-1257,2022-06-30,Lahore,DHA Phase 6,House / Villa,2837,43167792,180149,Rented
+PROP-1258,2022-06-30,Lahore,Bahria Town,Apartment,1060,14355580,68851,Active
+PROP-1259,2022-06-30,Islamabad,Sector G-11,House / Villa,2629,32255201,128784,Active
+PROP-1260,2022-06-30,Rawalpindi,Bahria Town Phase 8,Apartment,2080,29694080,111238,Sold
+PROP-1261,2022-06-30,Karachi,Clifton,House / Villa,4003,86060497,267649,Sold
+PROP-1262,2022-06-30,Karachi,PECHS,Apartment,1104,12771072,65338,Active
+PROP-1263,2022-06-30,Islamabad,DHA Phase 2,Commercial,1456,24663184,93948,Active
+PROP-1264,2022-06-30,Islamabad,Bahria Enclave,House / Villa,4844,88461128,325015,Active
+PROP-1265,2022-06-30,Islamabad,Bahria Enclave,Apartment,1808,16686032,84508,Active
+PROP-1266,2022-06-30,Lahore,Bahria Town,Commercial,625,17190000,84529,Rented
+PROP-1267,2022-06-30,Islamabad,Sector G-11,House / Villa,2918,57178210,262833,Active
+PROP-1268,2022-06-30,Lahore,Model Town,House / Villa,4793,61786563,310186,Rented
+PROP-1269,2022-06-30,Karachi,Gulshan-e-Iqbal,House / Villa,2516,54622360,192896,Sold
+PROP-1270,2022-06-30,Islamabad,Sector F-10,Commercial,2493,76046472,417695,Rented
+PROP-1271,2022-07-31,Karachi,PECHS,Commercial,2363,45936720,232833,Sold
+PROP-1272,2022-07-31,Islamabad,Bahria Enclave,Apartment,1160,18705000,93029,Rented
+PROP-1273,2022-07-31,Lahore,DHA Phase 6,Apartment,1912,28534688,152579,Sold
+PROP-1274,2022-07-31,Karachi,DHA Phase 8,House / Villa,2493,34071831,170453,Rented
+PROP-1275,2022-07-31,Lahore,Model Town,Apartment,2102,35822284,200844,Active
+PROP-1276,2022-07-31,Lahore,DHA Phase 6,Apartment,1888,24177728,113401,Active
+PROP-1277,2022-07-31,Karachi,Clifton,Apartment,1104,18687408,76987,Active
+PROP-1278,2022-07-31,Lahore,Bahria Town,Commercial,1461,26281929,118303,Sold
+PROP-1279,2022-07-31,Rawalpindi,Bahria Town Phase 8,House / Villa,3947,52009619,173023,Active
+PROP-1280,2022-07-31,Rawalpindi,Saddar,Commercial,2263,58887786,246333,Sold
+PROP-1281,2022-07-31,Lahore,Gulberg III,Commercial,2974,45817444,196675,Rented
+PROP-1282,2022-07-31,Karachi,PECHS,Commercial,2327,55629262,230317,Active
+PROP-1283,2022-07-31,Karachi,Bahria Town,Commercial,2325,66599625,296875,Active
+PROP-1284,2022-07-31,Rawalpindi,Bahria Town Phase 8,Commercial,2192,47991648,220607,Sold
+PROP-1285,2022-07-31,Lahore,Johar Town,House / Villa,3681,89407809,341347,Active
+PROP-1286,2022-08-31,Karachi,Bahria Town,Commercial,1786,54848060,305956,Sold
+PROP-1287,2022-08-31,Islamabad,Sector F-7,House / Villa,2444,45069804,259298,Active
+PROP-1288,2022-08-31,Lahore,DHA Phase 6,Apartment,2185,31210540,149961,Rented
+PROP-1289,2022-08-31,Lahore,Johar Town,Apartment,1849,23326984,115231,Active
+PROP-1290,2022-08-31,Karachi,Gulshan-e-Iqbal,House / Villa,4631,84724145,344002,Active
+PROP-1291,2022-08-31,Karachi,PECHS,House / Villa,4711,87973214,488561,Sold
+PROP-1292,2022-08-31,Karachi,DHA Phase 5,Commercial,1962,62521092,350604,Active
+PROP-1293,2022-08-31,Karachi,Clifton,House / Villa,4852,109936616,530035,Sold
+PROP-1294,2022-08-31,Lahore,DHA Phase 6,House / Villa,3100,57821200,183603,Active
+PROP-1295,2022-08-31,Rawalpindi,Adyala Road,Commercial,2077,55129811,186624,Active
+PROP-1296,2022-08-31,Lahore,Gulberg III,Commercial,1505,41121115,133930,Rented
+PROP-1297,2022-08-31,Islamabad,Sector F-7,Apartment,1893,19823496,96173,Active
+PROP-1298,2022-08-31,Rawalpindi,Bahria Town Phase 8,Apartment,1227,14245470,70094,Active
+PROP-1299,2022-08-31,Rawalpindi,Bahria Town Phase 8,Commercial,2928,80066160,320185,Sold
+PROP-1300,2022-08-31,Islamabad,DHA Phase 2,House / Villa,4661,99857264,597789,Active
+PROP-1301,2022-09-30,Rawalpindi,Bahria Town Phase 8,House / Villa,4500,99270000,486907,Sold
+PROP-1302,2022-09-30,Islamabad,Sector F-10,House / Villa,4717,59585144,325657,Active
+PROP-1303,2022-09-30,Rawalpindi,Adyala Road,House / Villa,2236,43481256,182532,Active
+PROP-1304,2022-09-30,Karachi,PECHS,Apartment,1085,8840580,28986,Active
+PROP-1305,2022-09-30,Rawalpindi,Adyala Road,Apartment,1812,32099580,164549,Active
+PROP-1306,2022-09-30,Karachi,DHA Phase 5,Apartment,1160,9674400,39074,Active
+PROP-1307,2022-09-30,Karachi,DHA Phase 8,Commercial,1703,42433651,184230,Sold
+PROP-1308,2022-09-30,Islamabad,Sector G-11,House / Villa,4190,68871030,323674,Active
+PROP-1309,2022-09-30,Rawalpindi,Adyala Road,Apartment,841,14116185,68941,Sold
+PROP-1310,2022-09-30,Lahore,Bahria Town,Commercial,1447,32836771,106481,Active
+PROP-1311,2022-09-30,Lahore,Bahria Town,House / Villa,4978,96438794,571576,Sold
+PROP-1312,2022-09-30,Karachi,DHA Phase 5,Apartment,1052,12896468,62149,Active
+PROP-1313,2022-09-30,Rawalpindi,Bahria Town Phase 8,House / Villa,4428,102455064,600221,Rented
+PROP-1314,2022-09-30,Karachi,Gulshan-e-Iqbal,House / Villa,4964,94996068,429222,Active
+PROP-1315,2022-09-30,Karachi,PECHS,Apartment,1342,11869990,66808,Active
+PROP-1316,2022-10-31,Islamabad,Bahria Enclave,Commercial,753,15194787,62213,Active
+PROP-1317,2022-10-31,Karachi,DHA Phase 8,House / Villa,4825,89204600,283179,Rented
+PROP-1318,2022-10-31,Karachi,Clifton,Commercial,2630,71451840,244847,Active
+PROP-1319,2022-10-31,Lahore,Bahria Town,Commercial,899,21396200,96887,Rented
+PROP-1320,2022-10-31,Karachi,Gulshan-e-Iqbal,Commercial,1903,45692933,160896,Sold
+PROP-1321,2022-10-31,Lahore,Gulberg III,Commercial,2008,41551544,206188,Active
+PROP-1322,2022-10-31,Islamabad,DHA Phase 2,House / Villa,3549,77921844,324251,Rented
+PROP-1323,2022-10-31,Islamabad,Sector F-10,House / Villa,4452,63632436,341770,Sold
+PROP-1324,2022-10-31,Islamabad,Sector F-10,Commercial,1400,41759200,247532,Rented
+PROP-1325,2022-10-31,Karachi,PECHS,Apartment,1794,22590048,104905,Active
+PROP-1326,2022-10-31,Rawalpindi,Adyala Road,Apartment,1309,18099543,101248,Active
+PROP-1327,2022-10-31,Lahore,Bahria Town,Apartment,2259,25962687,108450,Rented
+PROP-1328,2022-10-31,Karachi,Clifton,Apartment,1943,16305656,95037,Rented
+PROP-1329,2022-10-31,Rawalpindi,Saddar,Apartment,1833,30121689,93837,Rented
+PROP-1330,2022-10-31,Karachi,PECHS,Commercial,1258,40456022,230006,Sold
+PROP-1331,2022-11-30,Islamabad,Sector F-7,Commercial,1355,40536180,211286,Sold
+PROP-1332,2022-11-30,Karachi,Gulshan-e-Iqbal,Apartment,886,10150016,32645,Active
+PROP-1333,2022-11-30,Rawalpindi,Saddar,Apartment,947,13655740,56845,Active
+PROP-1334,2022-11-30,Rawalpindi,Adyala Road,Commercial,1734,35564340,190323,Active
+PROP-1335,2022-11-30,Lahore,Model Town,Apartment,1149,15441411,65979,Active
+PROP-1336,2022-11-30,Rawalpindi,Saddar,Commercial,859,14925984,61880,Active
+PROP-1337,2022-11-30,Karachi,PECHS,House / Villa,4883,106473815,341542,Rented
+PROP-1338,2022-11-30,Islamabad,Sector F-10,House / Villa,4196,66074412,256267,Rented
+PROP-1339,2022-11-30,Lahore,Model Town,Apartment,959,11491697,62460,Sold
+PROP-1340,2022-11-30,Islamabad,Sector F-10,Commercial,2820,76794240,316123,Active
+PROP-1341,2022-11-30,Rawalpindi,Bahria Town Phase 8,Apartment,1589,16622529,96160,Sold
+PROP-1342,2022-11-30,Islamabad,Sector F-7,Apartment,921,16356039,64618,Rented
+PROP-1343,2022-11-30,Rawalpindi,Saddar,Commercial,2696,59756840,261831,Rented
+PROP-1344,2022-11-30,Rawalpindi,Bahria Town Phase 8,Commercial,1162,34361502,108636,Active
+PROP-1345,2022-11-30,Lahore,Bahria Town,Apartment,1333,19998999,62587,Active
+PROP-1346,2022-12-31,Karachi,Gulshan-e-Iqbal,Commercial,2983,92237343,335793,Sold
+PROP-1347,2022-12-31,Rawalpindi,Saddar,House / Villa,4468,61318832,320714,Sold
+PROP-1348,2022-12-31,Lahore,Bahria Town,Commercial,2960,61940960,293074,Rented
+PROP-1349,2022-12-31,Karachi,DHA Phase 5,House / Villa,4176,75147120,389215,Rented
+PROP-1350,2022-12-31,Rawalpindi,Adyala Road,House / Villa,4520,68166120,356307,Rented
+PROP-1351,2022-12-31,Islamabad,Sector G-11,House / Villa,4984,70568456,377638,Sold
+PROP-1352,2022-12-31,Lahore,Gulberg III,House / Villa,2313,52747965,290010,Active
+PROP-1353,2022-12-31,Karachi,DHA Phase 5,Apartment,2200,23394800,123262,Rented
+PROP-1354,2022-12-31,Lahore,Bahria Town,Apartment,1497,15237963,63330,Sold
+PROP-1355,2022-12-31,Lahore,Bahria Town,House / Villa,3828,76211652,322974,Sold
+PROP-1356,2022-12-31,Karachi,DHA Phase 5,House / Villa,4989,89258199,316327,Active
+PROP-1357,2022-12-31,Karachi,PECHS,Apartment,1325,15351450,49041,Sold
+PROP-1358,2022-12-31,Islamabad,DHA Phase 2,House / Villa,4583,55733863,267417,Sold
+PROP-1359,2022-12-31,Rawalpindi,Adyala Road,Apartment,2142,29981574,103346,Sold
+PROP-1360,2022-12-31,Rawalpindi,Bahria Town Phase 8,House / Villa,2997,69428502,380148,Sold
+PROP-1361,2023-01-31,Karachi,PECHS,House / Villa,2182,39834592,171370,Active
+PROP-1362,2023-01-31,Rawalpindi,Saddar,Commercial,975,23905050,143311,Rented
+PROP-1363,2023-01-31,Karachi,Clifton,Apartment,997,9255151,41541,Active
+PROP-1364,2023-01-31,Islamabad,DHA Phase 2,Commercial,2684,74854076,356553,Active
+PROP-1365,2023-01-31,Karachi,DHA Phase 5,House / Villa,3794,64755992,330304,Sold
+PROP-1366,2023-01-31,Lahore,Model Town,House / Villa,3900,56979000,331733,Active
+PROP-1367,2023-01-31,Lahore,Gulberg III,Commercial,1080,24838920,88384,Rented
+PROP-1368,2023-01-31,Lahore,Model Town,House / Villa,3625,55574875,175034,Rented
+PROP-1369,2023-01-31,Islamabad,Sector F-7,Apartment,1411,12254535,59197,Active
+PROP-1370,2023-01-31,Islamabad,DHA Phase 2,Apartment,1347,20027196,64224,Active
+PROP-1371,2023-01-31,Lahore,Johar Town,Commercial,662,11236788,64260,Active
+PROP-1372,2023-01-31,Rawalpindi,Bahria Town Phase 8,Commercial,2141,49020336,261284,Active
+PROP-1373,2023-01-31,Karachi,PECHS,Commercial,2797,90225626,308367,Sold
+PROP-1374,2023-01-31,Karachi,DHA Phase 8,Commercial,1922,56293458,292576,Sold
+PROP-1375,2023-01-31,Rawalpindi,Adyala Road,Commercial,1949,52484621,223394,Active
+PROP-1376,2023-02-28,Karachi,Gulshan-e-Iqbal,House / Villa,4068,96997392,481351,Active
+PROP-1377,2023-02-28,Rawalpindi,Saddar,Commercial,870,21857010,88488,Active
+PROP-1378,2023-02-28,Lahore,Model Town,Commercial,2874,44825778,209949,Sold
+PROP-1379,2023-02-28,Karachi,Gulshan-e-Iqbal,House / Villa,4075,77820275,360124,Sold
+PROP-1380,2023-02-28,Karachi,Clifton,House / Villa,2965,40077905,175336,Active
+PROP-1381,2023-02-28,Karachi,Gulshan-e-Iqbal,House / Villa,4069,61592453,202804,Rented
+PROP-1382,2023-02-28,Islamabad,Bahria Enclave,Commercial,1087,25582545,137145,Active
+PROP-1383,2023-02-28,Islamabad,Sector F-10,Commercial,2227,37533858,168593,Active
+PROP-1384,2023-02-28,Karachi,PECHS,House / Villa,4430,94283690,496899,Sold
+PROP-1385,2023-02-28,Rawalpindi,Saddar,Commercial,2249,67332811,253607,Rented
+PROP-1386,2023-02-28,Rawalpindi,Bahria Town Phase 8,House / Villa,2880,71233920,331774,Active
+PROP-1387,2023-02-28,Islamabad,DHA Phase 2,Apartment,2377,40891531,220611,Active
+PROP-1388,2023-02-28,Islamabad,Sector F-7,Commercial,1701,34948746,186166,Rented
+PROP-1389,2023-02-28,Rawalpindi,Bahria Town Phase 8,Apartment,963,16058988,78749,Sold
+PROP-1390,2023-02-28,Islamabad,Sector F-10,House / Villa,4875,120680625,563996,Active
+PROP-1391,2023-03-31,Rawalpindi,Adyala Road,Apartment,1058,8762356,33566,Rented
+PROP-1392,2023-03-31,Karachi,PECHS,Apartment,1814,27512938,112557,Sold
+PROP-1393,2023-03-31,Rawalpindi,Adyala Road,Apartment,1059,16025847,77659,Active
+PROP-1394,2023-03-31,Rawalpindi,Saddar,Commercial,1652,41468504,139636,Sold
+PROP-1395,2023-03-31,Lahore,Johar Town,House / Villa,3529,76882794,268067,Active
+PROP-1396,2023-03-31,Karachi,DHA Phase 8,Apartment,995,11804680,64558,Active
+PROP-1397,2023-03-31,Lahore,Model Town,Commercial,764,18784468,108097,Active
+PROP-1398,2023-03-31,Rawalpindi,Saddar,Commercial,1973,67819902,336047,Active
+PROP-1399,2023-03-31,Rawalpindi,Bahria Town Phase 8,House / Villa,3154,39699398,159020,Active
+PROP-1400,2023-03-31,Karachi,PECHS,House / Villa,2189,46345508,197448,Rented
+PROP-1401,2023-03-31,Islamabad,Sector F-10,House / Villa,3098,59159408,254770,Sold
+PROP-1402,2023-03-31,Karachi,Gulshan-e-Iqbal,Commercial,1430,39433680,133238,Sold
+PROP-1403,2023-03-31,Lahore,Bahria Town,Commercial,2458,63153394,351588,Active
+PROP-1404,2023-03-31,Rawalpindi,Adyala Road,Commercial,1139,28240366,143530,Sold
+PROP-1405,2023-03-31,Lahore,Model Town,Commercial,1836,59361552,294402,Rented
+PROP-1406,2023-04-30,Rawalpindi,Saddar,Commercial,892,24199960,76890,Rented
+PROP-1407,2023-04-30,Islamabad,Sector F-7,House / Villa,4266,61660764,216259,Active
+PROP-1408,2023-04-30,Lahore,Johar Town,Apartment,1639,22390379,121066,Active
+PROP-1409,2023-04-30,Karachi,Clifton,House / Villa,2153,29603750,100130,Sold
+PROP-1410,2023-04-30,Lahore,Bahria Town,Commercial,1949,39126175,232620,Sold
+PROP-1411,2023-04-30,Karachi,DHA Phase 8,Commercial,1132,37259780,182769,Active
+PROP-1412,2023-04-30,Rawalpindi,Bahria Town Phase 8,Apartment,1475,12220375,38352,Sold
+PROP-1413,2023-04-30,Rawalpindi,Saddar,House / Villa,3226,44396212,163336,Sold
+PROP-1414,2023-04-30,Karachi,PECHS,Commercial,567,18354357,101991,Sold
+PROP-1415,2023-04-30,Lahore,DHA Phase 6,Commercial,1778,31157672,171817,Active
+PROP-1416,2023-04-30,Rawalpindi,Adyala Road,Commercial,993,16376556,74748,Active
+PROP-1417,2023-04-30,Rawalpindi,Saddar,Commercial,2544,56904192,325997,Sold
+PROP-1418,2023-04-30,Karachi,DHA Phase 5,Apartment,1831,28321908,143970,Active
+PROP-1419,2023-04-30,Lahore,Johar Town,House / Villa,4606,57694756,277267,Rented
+PROP-1420,2023-04-30,Karachi,Bahria Town,Apartment,2373,27859020,137033,Sold
+PROP-1421,2023-05-31,Rawalpindi,Bahria Town Phase 8,Apartment,1378,11289954,43067,Active
+PROP-1422,2023-05-31,Karachi,Clifton,Commercial,2761,59957876,264862,Active
+PROP-1423,2023-05-31,Rawalpindi,Adyala Road,House / Villa,2440,54490080,240786,Sold
+PROP-1424,2023-05-31,Lahore,Bahria Town,Apartment,1452,18579792,56046,Active
+PROP-1425,2023-05-31,Lahore,Bahria Town,Apartment,1401,11684340,50425,Active
+PROP-1426,2023-05-31,Lahore,Bahria Town,House / Villa,4429,81387304,341097,Active
+PROP-1427,2023-05-31,Karachi,Clifton,Apartment,1618,13238476,74435,Active
+PROP-1428,2023-05-31,Islamabad,Sector G-11,Commercial,1856,49055936,209247,Active
+PROP-1429,2023-05-31,Rawalpindi,Saddar,Apartment,1932,28184016,110710,Rented
+PROP-1430,2023-05-31,Islamabad,DHA Phase 2,House / Villa,2519,51299435,161767,Active
+PROP-1431,2023-05-31,Islamabad,Sector F-7,Commercial,2375,68801375,230034,Active
+PROP-1432,2023-05-31,Islamabad,DHA Phase 2,House / Villa,4532,62423768,265728,Sold
+PROP-1433,2023-05-31,Karachi,PECHS,House / Villa,4702,113778996,482198,Sold
+PROP-1434,2023-05-31,Lahore,Gulberg III,Commercial,2366,57022966,279885,Rented
+PROP-1435,2023-05-31,Karachi,PECHS,Commercial,1128,30204456,138637,Rented
+PROP-1436,2023-06-30,Lahore,Gulberg III,Apartment,1067,11167222,48538,Active
+PROP-1437,2023-06-30,Islamabad,Sector F-10,Apartment,2036,25794084,120611,Active
+PROP-1438,2023-06-30,Islamabad,Sector F-7,House / Villa,3819,85988604,436605,Active
+PROP-1439,2023-06-30,Islamabad,Bahria Enclave,Commercial,2620,49832400,278325,Sold
+PROP-1440,2023-06-30,Rawalpindi,Bahria Town Phase 8,Commercial,2742,78056514,369816,Sold
+PROP-1441,2023-06-30,Islamabad,Sector G-11,House / Villa,3141,42827535,178972,Sold
+PROP-1442,2023-06-30,Lahore,Johar Town,Apartment,806,9081202,28463,Sold
+PROP-1443,2023-06-30,Islamabad,DHA Phase 2,Commercial,1413,24036543,72593,Active
+PROP-1444,2023-06-30,Islamabad,Sector G-11,Apartment,1680,16512720,91503,Sold
+PROP-1445,2023-06-30,Rawalpindi,Bahria Town Phase 8,Apartment,1854,25481376,87188,Active
+PROP-1446,2023-06-30,Rawalpindi,Adyala Road,Commercial,2622,51527544,213974,Active
+PROP-1447,2023-06-30,Lahore,Bahria Town,Commercial,1757,47133282,144701,Sold
+PROP-1448,2023-06-30,Islamabad,Bahria Enclave,House / Villa,4532,64213908,215014,Rented
+PROP-1449,2023-06-30,Karachi,DHA Phase 8,Commercial,2231,35216335,192989,Rented
+PROP-1450,2023-06-30,Karachi,DHA Phase 8,Commercial,2023,34261528,142409,Active
+PROP-1451,2023-07-31,Rawalpindi,Saddar,Apartment,2312,23933824,110018,Active
+PROP-1452,2023-07-31,Karachi,DHA Phase 8,Commercial,1446,41738790,228747,Sold
+PROP-1453,2023-07-31,Lahore,DHA Phase 6,Apartment,1741,14593062,55610,Rented
+PROP-1454,2023-07-31,Islamabad,DHA Phase 2,Commercial,2127,65928492,285610,Sold
+PROP-1455,2023-07-31,Islamabad,DHA Phase 2,Commercial,2820,97442280,549666,Sold
+PROP-1456,2023-07-31,Karachi,DHA Phase 5,Commercial,664,20724768,71375,Rented
+PROP-1457,2023-07-31,Karachi,PECHS,House / Villa,4046,73665522,352050,Sold
+PROP-1458,2023-07-31,Lahore,Model Town,Commercial,2793,75469653,405387,Active
+PROP-1459,2023-07-31,Karachi,PECHS,Apartment,1357,12052874,52888,Rented
+PROP-1460,2023-07-31,Rawalpindi,Bahria Town Phase 8,Commercial,1194,27377226,122492,Sold
+PROP-1461,2023-07-31,Lahore,Bahria Town,Commercial,1203,21423024,87551,Sold
+PROP-1462,2023-07-31,Karachi,Bahria Town,Commercial,581,19378674,93140,Sold
+PROP-1463,2023-07-31,Islamabad,Bahria Enclave,Commercial,2363,74432137,224003,Sold
+PROP-1464,2023-07-31,Karachi,DHA Phase 8,Commercial,1846,32286540,99841,Rented
+PROP-1465,2023-07-31,Karachi,DHA Phase 5,House / Villa,3749,62900722,353259,Sold
+PROP-1466,2023-08-31,Rawalpindi,Bahria Town Phase 8,Apartment,2027,29061099,116250,Sold
+PROP-1467,2023-08-31,Lahore,DHA Phase 6,House / Villa,2018,39425666,198329,Rented
+PROP-1468,2023-08-31,Islamabad,Sector G-11,Apartment,2115,16970760,83134,Active
+PROP-1469,2023-08-31,Karachi,Gulshan-e-Iqbal,Apartment,1950,32073600,177616,Sold
+PROP-1470,2023-08-31,Rawalpindi,Adyala Road,Apartment,1601,20872237,80170,Sold
+PROP-1471,2023-08-31,Islamabad,Sector G-11,Commercial,1409,21398483,101238,Sold
+PROP-1472,2023-08-31,Karachi,Gulshan-e-Iqbal,Commercial,1646,38761654,151119,Active
+PROP-1473,2023-08-31,Islamabad,Sector F-10,House / Villa,4369,108075953,554465,Sold
+PROP-1474,2023-08-31,Islamabad,DHA Phase 2,House / Villa,4342,64917242,251719,Active
+PROP-1475,2023-08-31,Islamabad,Sector G-11,House / Villa,4780,92722440,410696,Active
+PROP-1476,2023-08-31,Karachi,Bahria Town,Apartment,1580,15098480,55017,Active
+PROP-1477,2023-08-31,Karachi,Bahria Town,Commercial,2884,91036344,410505,Active
+PROP-1478,2023-08-31,Lahore,Johar Town,House / Villa,3587,74792537,377541,Active
+PROP-1479,2023-08-31,Rawalpindi,Bahria Town Phase 8,Apartment,1207,17919122,60205,Rented
+PROP-1480,2023-08-31,Rawalpindi,Bahria Town Phase 8,Commercial,2450,66730650,376759,Rented
+PROP-1481,2023-09-30,Islamabad,Sector G-11,Apartment,2384,37567072,124281,Active
+PROP-1482,2023-09-30,Karachi,DHA Phase 5,House / Villa,4341,79666032,253980,Rented
+PROP-1483,2023-09-30,Karachi,Bahria Town,Apartment,1739,29702120,96476,Rented
+PROP-1484,2023-09-30,Karachi,Clifton,Commercial,636,13224348,52104,Sold
+PROP-1485,2023-09-30,Islamabad,Sector G-11,Apartment,1906,19486944,80518,Rented
+PROP-1486,2023-09-30,Islamabad,Bahria Enclave,Apartment,1270,18238470,85609,Rented
+PROP-1487,2023-09-30,Karachi,DHA Phase 5,Commercial,522,14187960,79829,Active
+PROP-1488,2023-09-30,Rawalpindi,Adyala Road,Apartment,2275,29320200,114177,Active
+PROP-1489,2023-09-30,Islamabad,Sector G-11,Apartment,1609,14680516,65999,Active
+PROP-1490,2023-09-30,Rawalpindi,Saddar,Commercial,2019,46305765,190137,Active
+PROP-1491,2023-09-30,Rawalpindi,Adyala Road,Apartment,1836,18831852,87685,Active
+PROP-1492,2023-09-30,Lahore,DHA Phase 6,Apartment,1989,23655177,133426,Active
+PROP-1493,2023-09-30,Karachi,Gulshan-e-Iqbal,Apartment,961,11508936,39243,Sold
+PROP-1494,2023-09-30,Lahore,Bahria Town,House / Villa,2939,44731580,225741,Active
+PROP-1495,2023-09-30,Karachi,PECHS,Apartment,2075,17085550,70108,Active
+PROP-1496,2023-10-31,Lahore,Gulberg III,Apartment,1867,29838394,164303,Active
+PROP-1497,2023-10-31,Karachi,Bahria Town,House / Villa,4005,80164080,270401,Active
+PROP-1498,2023-10-31,Karachi,DHA Phase 8,Commercial,2564,46800692,177843,Sold
+PROP-1499,2023-10-31,Karachi,PECHS,House / Villa,4905,110210445,582674,Active
+PROP-1500,2023-10-31,Rawalpindi,Adyala Road,Apartment,903,9702735,54057,Sold
+PROP-1501,2023-10-31,Lahore,Bahria Town,Commercial,2197,66993121,288507,Active
+PROP-1502,2023-10-31,Karachi,Clifton,Commercial,2559,73799001,347170,Sold
+PROP-1503,2023-10-31,Karachi,PECHS,Commercial,806,27074346,154206,Sold
+PROP-1504,2023-10-31,Karachi,Gulshan-e-Iqbal,House / Villa,3082,64213470,365911,Sold
+PROP-1505,2023-10-31,Karachi,DHA Phase 5,House / Villa,4459,68115684,357085,Active
+PROP-1506,2023-10-31,Lahore,Johar Town,House / Villa,3127,64366168,239279,Sold
+PROP-1507,2023-10-31,Rawalpindi,Bahria Town Phase 8,Commercial,777,24565632,88803,Sold
+PROP-1508,2023-10-31,Islamabad,Sector F-10,Apartment,825,12761100,48858,Rented
+PROP-1509,2023-10-31,Rawalpindi,Adyala Road,Commercial,2494,59062908,320686,Rented
+PROP-1510,2023-10-31,Lahore,Johar Town,Apartment,1358,22203300,113751,Active
+PROP-1511,2023-11-30,Karachi,DHA Phase 5,Apartment,1160,11942200,40637,Rented
+PROP-1512,2023-11-30,Islamabad,Sector F-10,Commercial,1645,35235900,207431,Sold
+PROP-1513,2023-11-30,Lahore,Gulberg III,House / Villa,4761,107317701,461299,Active
+PROP-1514,2023-11-30,Lahore,Model Town,Apartment,2058,34597038,191354,Rented
+PROP-1515,2023-11-30,Karachi,DHA Phase 5,Commercial,1362,39469398,196452,Active
+PROP-1516,2023-11-30,Rawalpindi,Adyala Road,Commercial,2993,61209843,231289,Active
+PROP-1517,2023-11-30,Islamabad,Sector F-10,House / Villa,3413,73294175,402251,Sold
+PROP-1518,2023-11-30,Karachi,DHA Phase 5,Apartment,1418,23306248,136544,Rented
+PROP-1519,2023-11-30,Rawalpindi,Saddar,House / Villa,2007,45593019,235031,Active
+PROP-1520,2023-11-30,Karachi,DHA Phase 8,Commercial,686,12805562,60125,Sold
+PROP-1521,2023-11-30,Lahore,Johar Town,Apartment,1220,17344740,92850,Active
+PROP-1522,2023-11-30,Rawalpindi,Bahria Town Phase 8,Commercial,2718,91327518,362114,Rented
+PROP-1523,2023-11-30,Rawalpindi,Adyala Road,House / Villa,4660,107776480,453555,Rented
+PROP-1524,2023-11-30,Karachi,DHA Phase 5,Apartment,2261,36010947,214994,Rented
+PROP-1525,2023-11-30,Karachi,Clifton,Apartment,1126,13313824,65322,Active
+PROP-1526,2023-12-31,Lahore,Bahria Town,Commercial,773,21622356,81148,Sold
+PROP-1527,2023-12-31,Islamabad,Sector F-10,Apartment,913,14922985,85877,Active
+PROP-1528,2023-12-31,Lahore,Bahria Town,Commercial,1564,45687568,141999,Active
+PROP-1529,2023-12-31,Lahore,Model Town,Apartment,1532,23628036,101833,Sold
+PROP-1530,2023-12-31,Islamabad,DHA Phase 2,House / Villa,4450,58437400,237206,Rented
+PROP-1531,2023-12-31,Islamabad,Sector F-10,Apartment,1204,15118628,80750,Active
+PROP-1532,2023-12-31,Islamabad,Sector F-10,Apartment,1020,14989920,58267,Sold
+PROP-1533,2023-12-31,Lahore,Johar Town,House / Villa,2474,30355980,171161,Active
+PROP-1534,2023-12-31,Islamabad,Sector G-11,Commercial,2736,83510928,424306,Sold
+PROP-1535,2023-12-31,Lahore,Johar Town,Commercial,789,17053446,53483,Active
+PROP-1536,2023-12-31,Karachi,Gulshan-e-Iqbal,Commercial,753,14514828,76879,Active
+PROP-1537,2023-12-31,Karachi,PECHS,House / Villa,3349,44809620,231638,Active
+PROP-1538,2023-12-31,Islamabad,Bahria Enclave,Apartment,1011,13783974,77854,Active
+PROP-1539,2023-12-31,Rawalpindi,Bahria Town Phase 8,Commercial,2034,56356038,294499,Rented
+PROP-1540,2023-12-31,Islamabad,Sector F-10,House / Villa,4749,88711320,333416,Active
+PROP-1541,2024-01-31,Karachi,Bahria Town,Commercial,2409,64594926,236512,Sold
+PROP-1542,2024-01-31,Lahore,Model Town,Apartment,1071,12073383,36968,Active
+PROP-1543,2024-01-31,Lahore,DHA Phase 6,Apartment,2303,24946096,119857,Active
+PROP-1544,2024-01-31,Karachi,DHA Phase 8,Apartment,1668,18014400,81813,Sold
+PROP-1545,2024-01-31,Rawalpindi,Saddar,Apartment,1694,26021534,132491,Sold
+PROP-1546,2024-01-31,Islamabad,Sector F-7,Commercial,906,25992234,134820,Rented
+PROP-1547,2024-01-31,Karachi,DHA Phase 5,Commercial,1180,40011440,137099,Active
+PROP-1548,2024-01-31,Rawalpindi,Saddar,Commercial,1060,35284220,165349,Rented
+PROP-1549,2024-01-31,Karachi,Clifton,Commercial,1997,54010862,244130,Active
+PROP-1550,2024-01-31,Rawalpindi,Bahria Town Phase 8,Apartment,1650,26786100,147778,Active
+PROP-1551,2024-01-31,Lahore,DHA Phase 6,House / Villa,2673,44895708,147821,Sold
+PROP-1552,2024-01-31,Karachi,DHA Phase 8,House / Villa,4936,64128512,378429,Active
+PROP-1553,2024-01-31,Karachi,Gulshan-e-Iqbal,Commercial,889,14223111,50318,Rented
+PROP-1554,2024-01-31,Islamabad,Sector G-11,Commercial,1981,37106111,186697,Sold
+PROP-1555,2024-01-31,Lahore,Bahria Town,Apartment,1639,18483003,90097,Sold
+PROP-1556,2024-02-29,Rawalpindi,Adyala Road,Commercial,1733,33895747,118243,Active
+PROP-1557,2024-02-29,Rawalpindi,Bahria Town Phase 8,Apartment,1130,9197070,44733,Active
+PROP-1558,2024-02-29,Karachi,PECHS,House / Villa,4165,53674355,287226,Active
+PROP-1559,2024-02-29,Rawalpindi,Saddar,Commercial,1225,33384925,137604,Rented
+PROP-1560,2024-02-29,Karachi,PECHS,House / Villa,4438,108739876,391134,Active
+PROP-1561,2024-02-29,Lahore,Model Town,Apartment,1137,12235257,70281,Active
+PROP-1562,2024-02-29,Lahore,Model Town,House / Villa,4064,91687904,542061,Active
+PROP-1563,2024-02-29,Lahore,DHA Phase 6,Apartment,1905,22482810,102501,Active
+PROP-1564,2024-02-29,Islamabad,Sector F-10,House / Villa,3826,78046574,381811,Sold
+PROP-1565,2024-02-29,Lahore,Gulberg III,Commercial,718,11859924,69431,Active
+PROP-1566,2024-02-29,Lahore,Johar Town,Commercial,1095,20316630,100476,Active
+PROP-1567,2024-02-29,Lahore,Bahria Town,House / Villa,3742,49791052,250353,Sold
+PROP-1568,2024-02-29,Rawalpindi,Bahria Town Phase 8,Apartment,2266,27633870,103587,Active
+PROP-1569,2024-02-29,Rawalpindi,Saddar,Commercial,1677,49129392,170208,Rented
+PROP-1570,2024-02-29,Lahore,Bahria Town,Apartment,1690,15667990,74622,Sold
+PROP-1571,2024-03-31,Karachi,Gulshan-e-Iqbal,Apartment,1680,20825280,98894,Active
+PROP-1572,2024-03-31,Rawalpindi,Adyala Road,Apartment,2243,22638599,80720,Sold
+PROP-1573,2024-03-31,Rawalpindi,Bahria Town Phase 8,Apartment,1641,13733529,71805,Active
+PROP-1574,2024-03-31,Rawalpindi,Adyala Road,Apartment,1950,22768200,103326,Active
+PROP-1575,2024-03-31,Islamabad,DHA Phase 2,Apartment,842,8777008,43990,Sold
+PROP-1576,2024-03-31,Karachi,Clifton,Apartment,950,8677300,45262,Active
+PROP-1577,2024-03-31,Islamabad,Sector F-7,Apartment,2189,26626996,86043,Rented
+PROP-1578,2024-03-31,Islamabad,Bahria Enclave,House / Villa,3337,43995008,220794,Active
+PROP-1579,2024-03-31,Rawalpindi,Adyala Road,House / Villa,3361,73152165,303570,Active
+PROP-1580,2024-03-31,Islamabad,Bahria Enclave,House / Villa,4434,62044962,281735,Active
+PROP-1581,2024-03-31,Islamabad,Sector G-11,House / Villa,2489,46952496,270554,Sold
+PROP-1582,2024-03-31,Karachi,Clifton,Apartment,1348,17178912,53340,Sold
+PROP-1583,2024-03-31,Lahore,Model Town,House / Villa,2362,40879134,224873,Active
+PROP-1584,2024-03-31,Lahore,Johar Town,Commercial,2072,60972744,259632,Sold
+PROP-1585,2024-03-31,Rawalpindi,Adyala Road,House / Villa,3228,61057620,291287,Active
+PROP-1586,2024-04-30,Islamabad,DHA Phase 2,Commercial,1322,23893828,101047,Sold
+PROP-1587,2024-04-30,Karachi,Bahria Town,House / Villa,3364,57534492,261740,Sold
+PROP-1588,2024-04-30,Rawalpindi,Saddar,House / Villa,4502,66035336,361838,Active
+PROP-1589,2024-04-30,Rawalpindi,Saddar,Apartment,995,10136065,38008,Sold
+PROP-1590,2024-04-30,Islamabad,Sector F-7,Apartment,860,10257220,55059,Active
+PROP-1591,2024-04-30,Rawalpindi,Adyala Road,Apartment,2371,33480891,137960,Active
+PROP-1592,2024-04-30,Rawalpindi,Saddar,Apartment,2036,30482992,127363,Sold
+PROP-1593,2024-04-30,Islamabad,Sector F-7,House / Villa,4308,52066488,287080,Rented
+PROP-1594,2024-04-30,Islamabad,Sector F-7,Commercial,1808,30193600,127817,Sold
+PROP-1595,2024-04-30,Rawalpindi,Adyala Road,Commercial,1568,32175360,168015,Rented
+PROP-1596,2024-04-30,Karachi,Bahria Town,House / Villa,3629,60811153,281197,Active
+PROP-1597,2024-04-30,Lahore,Bahria Town,House / Villa,2498,47754266,160668,Sold
+PROP-1598,2024-04-30,Islamabad,DHA Phase 2,House / Villa,3736,88928008,349754,Active
+PROP-1599,2024-04-30,Islamabad,Sector G-11,House / Villa,2411,42874813,207895,Sold
+PROP-1600,2024-04-30,Islamabad,Sector F-7,House / Villa,2018,28740356,146267,Sold
+PROP-1601,2024-05-31,Karachi,Gulshan-e-Iqbal,House / Villa,3377,59495986,276064,Sold
+PROP-1602,2024-05-31,Karachi,Gulshan-e-Iqbal,Apartment,1044,13495788,78267,Active
+PROP-1603,2024-05-31,Rawalpindi,Bahria Town Phase 8,Apartment,870,11647560,48635,Rented
+PROP-1604,2024-05-31,Islamabad,Sector F-10,Apartment,1926,32765112,174620,Sold
+PROP-1605,2024-05-31,Islamabad,Sector F-7,Commercial,2288,51191712,289584,Active
+PROP-1606,2024-05-31,Lahore,Johar Town,Apartment,1467,25361496,116839,Rented
+PROP-1607,2024-05-31,Karachi,Bahria Town,Apartment,1298,22817542,91290,Sold
+PROP-1608,2024-05-31,Lahore,Model Town,Commercial,1158,23226006,97867,Active
+PROP-1609,2024-05-31,Islamabad,Bahria Enclave,House / Villa,2541,35838264,193906,Rented
+PROP-1610,2024-05-31,Rawalpindi,Bahria Town Phase 8,House / Villa,4565,67393095,238919,Sold
+PROP-1611,2024-05-31,Islamabad,DHA Phase 2,Apartment,1872,23924160,104104,Sold
+PROP-1612,2024-05-31,Lahore,Johar Town,Apartment,1434,25756074,102083,Active
+PROP-1613,2024-05-31,Lahore,Bahria Town,Commercial,1143,20448270,101631,Sold
+PROP-1614,2024-05-31,Islamabad,Sector G-11,House / Villa,3085,66238035,294889,Active
+PROP-1615,2024-05-31,Rawalpindi,Bahria Town Phase 8,Apartment,2327,30639609,98028,Sold
